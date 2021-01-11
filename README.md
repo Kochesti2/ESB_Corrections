@@ -11,7 +11,7 @@ Open config.py and put IN RIGHT ORDER the operation list.
 > python correct.py
 ```
 
-This will generate new files near the old ones that shoul be replaced. The program will ask you if you want to replace them. If you don't choose to replace, you can remove just generated files with:
+This will generate new files near the old ones that should be replaced. The program will ask you if you want to replace them. If you don't choose to replace, you can remove just generated files with:
 ```sh
 > python DeleteAllNewFiles.py
 ```
